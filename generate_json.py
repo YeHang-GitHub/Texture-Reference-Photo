@@ -1,53 +1,27 @@
-import requests
+import os
 import json
-import time
 
-REPO_OWNER = "YeHang-GitHub"
-REPO_NAME = "Texture-Reference-Photo"
-API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/Images"
+def generate_image_data(images_dir, thumbnails_dir, output_file):
+    image_data = []
 
-HEADERS = {
-    "Accept": "application/vnd.github.v3+json"
-}
+    for root, dirs, files in os.walk(images_dir):
+        for file in files:
+            if file.endswith(('.jpg', '.png')):
+                relative_path = os.path.relpath(os.path.join(root, file), images_dir)
+                thumbnail_path = os.path.join(thumbnails_dir, relative_path)
+                if os.path.exists(thumbnail_path):
+                    image_data.append({
+                        'name': file,
+                        'fullsize_path': os.path.join('Images', relative_path),
+                        'thumbnail_path': thumbnail_path
+                    })
 
-def fetch_directory_recursive(path="Images"):
-    """ 递归获取 GitHub 仓库中的所有文件和目录 """
-    url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{path}"
-    response = requests.get(url, headers=HEADERS)
-    
-    if response.status_code == 200:
-        data = response.json()
-        result = []
-        for item in data:
-            if item["type"] == "dir":  # 目录
-                sub_items = fetch_directory_recursive(item["path"])  # 递归获取子目录内容
-                result.append({
-                    "name": item["name"],
-                    "path": item["path"],
-                    "type": "folder",
-                    "children": sub_items
-                })
-            elif item["type"] == "file" and item["name"].lower().endswith((".jpg", ".png", ".jpeg", ".avif", ".webp")):
-                result.append({
-                    "name": item["name"],
-                    "path": item["path"],
-                    "type": "file",
-                    "raw_url": f"https://cdn.jsdelivr.net/gh/{REPO_OWNER}/{REPO_NAME}@main/{item['path']}"
-                })
-            time.sleep(1)  # 避免 GitHub API 访问过快
-        return result
-    else:
-        print(f"❌ 获取目录失败: {response.status_code}, {response.text}")
-        return []
+    with open(output_file, 'w') as f:
+        json.dump(image_data, f, indent=4)
 
-def save_directory_cache():
-    """ 生成并保存完整的目录结构（包含图片文件） """
-    print("📂 正在获取 GitHub 仓库目录...")
-    directory_structure = fetch_directory_recursive()
-    
-    with open("directory_cache.json", "w", encoding="utf-8") as f:
-        json.dump(directory_structure, f, indent=4, ensure_ascii=False)
-    
-    print("✅ 目录缓存已保存到 directory_cache.json")
-
-save_directory_cache()
+if __name__ == "__main__":
+    images_dir = 'Images'
+    thumbnails_dir = 'Thumbnails'
+    output_file = 'directory_cache.json'
+    generate_image_data(images_dir, thumbnails_dir, output_file)
+    print(f"Image data has been written to {output_file}")
