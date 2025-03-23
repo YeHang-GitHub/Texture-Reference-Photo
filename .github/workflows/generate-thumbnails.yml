@@ -29,3 +29,13 @@ jobs:
     - name: Generate Thumbnails
       run: |
         python generate_thumbnails.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add Thumbnails
+        git commit -m "Add generated thumbnails"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
