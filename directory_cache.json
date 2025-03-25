@@ -1,90 +1,5 @@
 [
     {
-        "name": "2024-02-08_2.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-08_2.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-08_2.jpg"
-    },
-    {
-        "name": "2024-02-5_06.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_06.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_06.jpg"
-    },
-    {
-        "name": "2024-02-5_11.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_11.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_11.jpg"
-    },
-    {
-        "name": "2024-02-08_3.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-08_3.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-08_3.jpg"
-    },
-    {
-        "name": "2024-02-5_02.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_02.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_02.jpg"
-    },
-    {
-        "name": "2024-02-5_09.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_09.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_09.jpg"
-    },
-    {
-        "name": "2024-02-08_1.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-08_1.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-08_1.jpg"
-    },
-    {
-        "name": "2024-02-08_6.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-08_6.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-08_6.jpg"
-    },
-    {
-        "name": "2024-02-5_01.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_01.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_01.jpg"
-    },
-    {
-        "name": "2024-02-5_10.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_10.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_10.jpg"
-    },
-    {
-        "name": "2024-02-5_04.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_04.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_04.jpg"
-    },
-    {
-        "name": "2024-02-5_05.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_05.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_05.jpg"
-    },
-    {
-        "name": "2024-02-5_07.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_07.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_07.jpg"
-    },
-    {
-        "name": "2024-02-08_4.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-08_4.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-08_4.jpg"
-    },
-    {
-        "name": "2024-02-08_5.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-08_5.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-08_5.jpg"
-    },
-    {
-        "name": "2024-02-5_03.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_03.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_03.jpg"
-    },
-    {
-        "name": "2024-02-5_08.jpg",
-        "fullsize_path": "Images/CeramicTile/2024-02-5_08.jpg",
-        "thumbnail_path": "Thumbnails/CeramicTile/2024-02-5_08.jpg"
-    },
-    {
         "name": "DSC01239.jpg",
         "fullsize_path": "Images/RockCliff/DSC01239.jpg",
         "thumbnail_path": "Thumbnails/RockCliff/DSC01239.jpg"
@@ -103,26 +18,6 @@
         "name": "DSC01274.jpg",
         "fullsize_path": "Images/RockCliff/DSC01274.jpg",
         "thumbnail_path": "Thumbnails/RockCliff/DSC01274.jpg"
-    },
-    {
-        "name": "2023-03-13_02.jpg",
-        "fullsize_path": "Images/StoneWall/2023-03-13_02.jpg",
-        "thumbnail_path": "Thumbnails/StoneWall/2023-03-13_02.jpg"
-    },
-    {
-        "name": "2023-03-13_09.jpg",
-        "fullsize_path": "Images/StoneWall/2023-03-13_09.jpg",
-        "thumbnail_path": "Thumbnails/StoneWall/2023-03-13_09.jpg"
-    },
-    {
-        "name": "2023-03-13_08.jpg",
-        "fullsize_path": "Images/StoneWall/2023-03-13_08.jpg",
-        "thumbnail_path": "Thumbnails/StoneWall/2023-03-13_08.jpg"
-    },
-    {
-        "name": "2023-03-13_01.jpg",
-        "fullsize_path": "Images/StoneWall/2023-03-13_01.jpg",
-        "thumbnail_path": "Thumbnails/StoneWall/2023-03-13_01.jpg"
     },
     {
         "name": "DSC01262.jpg",
@@ -855,6 +750,101 @@
         "thumbnail_path": "Thumbnails/Concrete/2023-11-11_04.jpg"
     },
     {
+        "name": "2024-02-08_2.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-08_2.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_2.jpg"
+    },
+    {
+        "name": "2024-02-5_06.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_06.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_06.jpg"
+    },
+    {
+        "name": "2024-02-5_11.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_11.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_11.jpg"
+    },
+    {
+        "name": "2024-02-08_3.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-08_3.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_3.jpg"
+    },
+    {
+        "name": "2024-02-5_02.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_02.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_02.jpg"
+    },
+    {
+        "name": "2024-02-5_09.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_09.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_09.jpg"
+    },
+    {
+        "name": "2024-02-08_1.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-08_1.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_1.jpg"
+    },
+    {
+        "name": "2024-02-08_6.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-08_6.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_6.jpg"
+    },
+    {
+        "name": "2024-02-5_01.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_01.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_01.jpg"
+    },
+    {
+        "name": "2024-02-5_10.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_10.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_10.jpg"
+    },
+    {
+        "name": "2024-02-5_04.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_04.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_04.jpg"
+    },
+    {
+        "name": "2024-02-5_05.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_05.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_05.jpg"
+    },
+    {
+        "name": "2024-02-5_07.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_07.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_07.jpg"
+    },
+    {
+        "name": "2024-02-08_4.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-08_4.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_4.jpg"
+    },
+    {
+        "name": "2024-02-08_5.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-08_5.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_5.jpg"
+    },
+    {
+        "name": "2024-02-5_03.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_03.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_03.jpg"
+    },
+    {
+        "name": "2024-02-5_08.jpg",
+        "fullsize_path": "Images/Ceramic Tile/2024-02-5_08.jpg",
+        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_08.jpg"
+    },
+    {
+        "name": "DSC02399.jpg",
+        "fullsize_path": "Images/Road/Pavement Marking/DSC02399.jpg",
+        "thumbnail_path": "Thumbnails/Road/Pavement Marking/DSC02399.jpg"
+    },
+    {
+        "name": "2021-09-18 15.24.41.jpg",
+        "fullsize_path": "Images/Creature/Fish/2021-09-18 15.24.41.jpg",
+        "thumbnail_path": "Thumbnails/Creature/Fish/2021-09-18 15.24.41.jpg"
+    },
+    {
         "name": "DSC03636.jpg",
         "fullsize_path": "Images/Polarized Light/DSC03636.jpg",
         "thumbnail_path": "Thumbnails/Polarized Light/DSC03636.jpg"
@@ -898,6 +888,11 @@
         "name": "DSC07019.jpg",
         "fullsize_path": "Images/Stone/Raw Stone/DSC07019.jpg",
         "thumbnail_path": "Thumbnails/Stone/Raw Stone/DSC07019.jpg"
+    },
+    {
+        "name": "2023-03-13_2.jpg",
+        "fullsize_path": "Images/Stone/Raw Stone/2023-03-13_2.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Raw Stone/2023-03-13_2.jpg"
     },
     {
         "name": "DSC07017.jpg",
@@ -945,6 +940,21 @@
         "thumbnail_path": "Thumbnails/Stone/Raw Stone/DSC07136.jpg"
     },
     {
+        "name": "DSC03849.jpg",
+        "fullsize_path": "Images/Stone/Stone Stair/DSC03849.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Stair/DSC03849.jpg"
+    },
+    {
+        "name": "DSC01126.jpg",
+        "fullsize_path": "Images/Stone/Stone Stair/DSC01126.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Stair/DSC01126.jpg"
+    },
+    {
+        "name": "DSC03863.jpg",
+        "fullsize_path": "Images/Stone/Stone Stair/DSC03863.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Stair/DSC03863.jpg"
+    },
+    {
         "name": "2021-09-19 19.03.43.jpg",
         "fullsize_path": "Images/Stone/Stone Carving/2021-09-19 19.03.43.jpg",
         "thumbnail_path": "Thumbnails/Stone/Stone Carving/2021-09-19 19.03.43.jpg"
@@ -958,6 +968,356 @@
         "name": "2021-09-19 18.55.08.jpg",
         "fullsize_path": "Images/Stone/Stone Carving/2021-09-19 18.55.08.jpg",
         "thumbnail_path": "Thumbnails/Stone/Stone Carving/2021-09-19 18.55.08.jpg"
+    },
+    {
+        "name": "2023-03-13_02.jpg",
+        "fullsize_path": "Images/Stone/Stone Wall/2023-03-13_02.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Wall/2023-03-13_02.jpg"
+    },
+    {
+        "name": "2023-03-13_09.jpg",
+        "fullsize_path": "Images/Stone/Stone Wall/2023-03-13_09.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Wall/2023-03-13_09.jpg"
+    },
+    {
+        "name": "2023-03-13_08.jpg",
+        "fullsize_path": "Images/Stone/Stone Wall/2023-03-13_08.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Wall/2023-03-13_08.jpg"
+    },
+    {
+        "name": "2023-03-13_01.jpg",
+        "fullsize_path": "Images/Stone/Stone Wall/2023-03-13_01.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Wall/2023-03-13_01.jpg"
+    },
+    {
+        "name": "DSC03876.jpg",
+        "fullsize_path": "Images/Stone/Stone Floor/DSC03876.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Floor/DSC03876.jpg"
+    },
+    {
+        "name": "DSC03882.jpg",
+        "fullsize_path": "Images/Stone/Stone Floor/DSC03882.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Floor/DSC03882.jpg"
+    },
+    {
+        "name": "DSC03870.jpg",
+        "fullsize_path": "Images/Stone/Stone Floor/DSC03870.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Floor/DSC03870.jpg"
+    },
+    {
+        "name": "2023-03-13_1.jpg",
+        "fullsize_path": "Images/Stone/Stone Floor/2023-03-13_1.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Stone Floor/2023-03-13_1.jpg"
+    },
+    {
+        "name": "2021-09-19 10.55.52.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 10.55.52.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 10.55.52.jpg"
+    },
+    {
+        "name": "2021-09-18 14.55.05.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.55.05.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.55.05.jpg"
+    },
+    {
+        "name": "2021-09-19 10.49.57.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 10.49.57.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 10.49.57.jpg"
+    },
+    {
+        "name": "2021-09-19 11.35.44.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 11.35.44.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 11.35.44.jpg"
+    },
+    {
+        "name": "2021-09-19 10.56.19.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 10.56.19.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 10.56.19.jpg"
+    },
+    {
+        "name": "2021-09-19 10.52.44.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 10.52.44.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 10.52.44.jpg"
+    },
+    {
+        "name": "DSC01183.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/DSC01183.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/DSC01183.jpg"
+    },
+    {
+        "name": "2021-09-18 15.15.08.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 15.15.08.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 15.15.08.jpg"
+    },
+    {
+        "name": "2021-09-18 15.15.16.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 15.15.16.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 15.15.16.jpg"
+    },
+    {
+        "name": "2021-09-18 15.16.42.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 15.16.42.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 15.16.42.jpg"
+    },
+    {
+        "name": "2021-09-18 14.55.23.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.55.23.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.55.23.jpg"
+    },
+    {
+        "name": "2021-09-19 10.53.18.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 10.53.18.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 10.53.18.jpg"
+    },
+    {
+        "name": "2021-09-18 15.15.28.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 15.15.28.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 15.15.28.jpg"
+    },
+    {
+        "name": "2021-09-19 10.53.33.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 10.53.33.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 10.53.33.jpg"
+    },
+    {
+        "name": "2021-09-18 14.53.48.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.53.48.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.53.48.jpg"
+    },
+    {
+        "name": "2021-09-18 14.54.22.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.54.22.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.54.22.jpg"
+    },
+    {
+        "name": "2021-09-19 11.36.24.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 11.36.24.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 11.36.24.jpg"
+    },
+    {
+        "name": "2021-09-18 15.16.37.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 15.16.37.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 15.16.37.jpg"
+    },
+    {
+        "name": "2021-09-18 14.53.42.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.53.42.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.53.42.jpg"
+    },
+    {
+        "name": "2021-09-18 15.15.20.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 15.15.20.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 15.15.20.jpg"
+    },
+    {
+        "name": "2021-09-19 10.53.11.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 10.53.11.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 10.53.11.jpg"
+    },
+    {
+        "name": "2021-09-18 14.54.01.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.54.01.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.54.01.jpg"
+    },
+    {
+        "name": "2021-09-18 14.56.01.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.56.01.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.56.01.jpg"
+    },
+    {
+        "name": "2021-09-18 14.53.58.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-18 14.53.58.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-18 14.53.58.jpg"
+    },
+    {
+        "name": "2021-09-19 11.37.09.jpg",
+        "fullsize_path": "Images/Plant/Mushroom/2021-09-19 11.37.09.jpg",
+        "thumbnail_path": "Thumbnails/Plant/Mushroom/2021-09-19 11.37.09.jpg"
+    },
+    {
+        "name": "2024-02-08_2.jpg",
+        "fullsize_path": "Images/Construction/Cobblestone Floor/2024-02-08_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Cobblestone Floor/2024-02-08_2.jpg"
+    },
+    {
+        "name": "2024-02-08_3.jpg",
+        "fullsize_path": "Images/Construction/Cobblestone Floor/2024-02-08_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Cobblestone Floor/2024-02-08_3.jpg"
+    },
+    {
+        "name": "2024-02-08_1.jpg",
+        "fullsize_path": "Images/Construction/Cobblestone Floor/2024-02-08_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Cobblestone Floor/2024-02-08_1.jpg"
+    },
+    {
+        "name": "2024-02-08_4.jpg",
+        "fullsize_path": "Images/Construction/Cobblestone Floor/2024-02-08_4.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Cobblestone Floor/2024-02-08_4.jpg"
+    },
+    {
+        "name": "2024-01-05_1.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2024-01-05_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-01-05_1.jpg"
+    },
+    {
+        "name": "2024-01-05_3.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2024-01-05_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-01-05_3.jpg"
+    },
+    {
+        "name": "2024-02-07_BrickWall_2.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2024-02-07_BrickWall_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-02-07_BrickWall_2.jpg"
+    },
+    {
+        "name": "2021-09-22_BrickWall_1.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2021-09-22_BrickWall_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2021-09-22_BrickWall_1.jpg"
+    },
+    {
+        "name": "2024-02-07_01.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2024-02-07_01.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-02-07_01.jpg"
+    },
+    {
+        "name": "2024-02-07_BrickWall_3.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2024-02-07_BrickWall_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-02-07_BrickWall_3.jpg"
+    },
+    {
+        "name": "2021-09-21 11.29.30.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2021-09-21 11.29.30.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2021-09-21 11.29.30.jpg"
+    },
+    {
+        "name": "2024-01-05_2.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2024-01-05_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-01-05_2.jpg"
+    },
+    {
+        "name": "2024-02-07_BrickWall_1.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/2024-02-07_BrickWall_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-02-07_BrickWall_1.jpg"
+    },
+    {
+        "name": "2024-01-06_1.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2024-01-06_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2024-01-06_1.jpg"
+    },
+    {
+        "name": "2023-11-11_8.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-11-11_8.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-11-11_8.jpg"
+    },
+    {
+        "name": "2023-11-11_7.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-11-11_7.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-11-11_7.jpg"
+    },
+    {
+        "name": "2023-11-11_6.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-11-11_6.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-11-11_6.jpg"
+    },
+    {
+        "name": "2023-11-11_5.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-11-11_5.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-11-11_5.jpg"
+    },
+    {
+        "name": "2024-01-06_3.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2024-01-06_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2024-01-06_3.jpg"
+    },
+    {
+        "name": "2023-03-13_2.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-03-13_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-03-13_2.jpg"
+    },
+    {
+        "name": "2024-01-06_2.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2024-01-06_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2024-01-06_2.jpg"
+    },
+    {
+        "name": "2023-03-13_1.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-03-13_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-03-13_1.jpg"
+    },
+    {
+        "name": "2023-03-13_4.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-03-13_4.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-03-13_4.jpg"
+    },
+    {
+        "name": "2023-03-13_3.jpg",
+        "fullsize_path": "Images/Construction/Asian Roof Tile/2023-03-13_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Asian Roof Tile/2023-03-13_3.jpg"
+    },
+    {
+        "name": "2024-02-08_05.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-08_05.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-08_05.jpg"
+    },
+    {
+        "name": "2024-02-08_03.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-08_03.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-08_03.jpg"
+    },
+    {
+        "name": "2024-02-08_04.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-08_04.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-08_04.jpg"
+    },
+    {
+        "name": "2023-11-11_1.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2023-11-11_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2023-11-11_1.jpg"
+    },
+    {
+        "name": "2024-02-08_01.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-08_01.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-08_01.jpg"
+    },
+    {
+        "name": "2024-02-05_2.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-05_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-05_2.jpg"
+    },
+    {
+        "name": "2023-11-11_3.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2023-11-11_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2023-11-11_3.jpg"
+    },
+    {
+        "name": "2023-11-11_4.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2023-11-11_4.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2023-11-11_4.jpg"
+    },
+    {
+        "name": "2023-11-11_2.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2023-11-11_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2023-11-11_2.jpg"
+    },
+    {
+        "name": "2024-02-05_1.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-05_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-05_1.jpg"
+    },
+    {
+        "name": "2024-02-05_4.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-05_4.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-05_4.jpg"
+    },
+    {
+        "name": "2024-02-05_3.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-05_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-05_3.jpg"
+    },
+    {
+        "name": "2024-02-08_02.jpg",
+        "fullsize_path": "Images/Construction/Ground Tile/2024-02-08_02.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ground Tile/2024-02-08_02.jpg"
     },
     {
         "name": "2021-09-18 10.59.27.jpg",
