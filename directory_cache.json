@@ -200,6 +200,11 @@
         "thumbnail_path": "Thumbnails/Aging/Leaking/DSC02721.jpg"
     },
     {
+        "name": "DSC06903.jpg",
+        "fullsize_path": "Images/Aging/Leaking/DSC06903.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Leaking/DSC06903.jpg"
+    },
+    {
         "name": "2024-01-02_17_Moss.jpg",
         "fullsize_path": "Images/Aging/Mildew/2024-01-02_17_Moss.jpg",
         "thumbnail_path": "Thumbnails/Aging/Mildew/2024-01-02_17_Moss.jpg"
@@ -253,6 +258,11 @@
         "name": "2024-01-20_17_Mossy.jpg",
         "fullsize_path": "Images/Aging/Mildew/2024-01-20_17_Mossy.jpg",
         "thumbnail_path": "Thumbnails/Aging/Mildew/2024-01-20_17_Mossy.jpg"
+    },
+    {
+        "name": "DSC06898.jpg",
+        "fullsize_path": "Images/Aging/Dust_And_Dirt/DSC06898.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Dust_And_Dirt/DSC06898.jpg"
     },
     {
         "name": "DSC02719.jpg",
@@ -835,6 +845,11 @@
         "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_08.jpg"
     },
     {
+        "name": "DSC09354.jpg",
+        "fullsize_path": "Images/Road/Pavement Marking/DSC09354.jpg",
+        "thumbnail_path": "Thumbnails/Road/Pavement Marking/DSC09354.jpg"
+    },
+    {
         "name": "DSC02399.jpg",
         "fullsize_path": "Images/Road/Pavement Marking/DSC02399.jpg",
         "thumbnail_path": "Thumbnails/Road/Pavement Marking/DSC02399.jpg"
@@ -1175,6 +1190,11 @@
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2021-09-22_BrickWall_1.jpg"
     },
     {
+        "name": "DSC09366.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/DSC09366.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/DSC09366.jpg"
+    },
+    {
         "name": "2024-02-07_01.jpg",
         "fullsize_path": "Images/Construction/Brick Wall/2024-02-07_01.jpg",
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-02-07_01.jpg"
@@ -1198,6 +1218,11 @@
         "name": "2024-02-07_BrickWall_1.jpg",
         "fullsize_path": "Images/Construction/Brick Wall/2024-02-07_BrickWall_1.jpg",
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-02-07_BrickWall_1.jpg"
+    },
+    {
+        "name": "DSC09363.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/DSC09363.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/DSC09363.jpg"
     },
     {
         "name": "2024-01-06_1.jpg",
