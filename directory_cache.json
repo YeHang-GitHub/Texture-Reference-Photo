@@ -145,6 +145,11 @@
         "thumbnail_path": "Thumbnails/Aging/Lichen/2021-09-19 11.39.40.jpg"
     },
     {
+        "name": "DSC07126.jpg",
+        "fullsize_path": "Images/Aging/Cracking/DSC07126.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Cracking/DSC07126.jpg"
+    },
+    {
         "name": "DSC08907.jpg",
         "fullsize_path": "Images/Aging/Cracking/DSC08907.jpg",
         "thumbnail_path": "Thumbnails/Aging/Cracking/DSC08907.jpg"
@@ -153,6 +158,11 @@
         "name": "DSC07161.jpg",
         "fullsize_path": "Images/Aging/Cracking/DSC07161.jpg",
         "thumbnail_path": "Thumbnails/Aging/Cracking/DSC07161.jpg"
+    },
+    {
+        "name": "DSC06978.jpg",
+        "fullsize_path": "Images/Aging/Cracking/DSC06978.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Cracking/DSC06978.jpg"
     },
     {
         "name": "DSC07191.jpg",
@@ -695,6 +705,11 @@
         "thumbnail_path": "Thumbnails/Metal/Painted/2021-09-21 11.28.47.jpg"
     },
     {
+        "name": "DSC07196.jpg",
+        "fullsize_path": "Images/Concrete/DSC07196.jpg",
+        "thumbnail_path": "Thumbnails/Concrete/DSC07196.jpg"
+    },
+    {
         "name": "2023-11-11_09.jpg",
         "fullsize_path": "Images/Concrete/2023-11-11_09.jpg",
         "thumbnail_path": "Thumbnails/Concrete/2023-11-11_09.jpg"
@@ -715,9 +730,19 @@
         "thumbnail_path": "Thumbnails/Concrete/2024-02-05_Concrete_2.jpg"
     },
     {
+        "name": "DSC07204.jpg",
+        "fullsize_path": "Images/Concrete/DSC07204.jpg",
+        "thumbnail_path": "Thumbnails/Concrete/DSC07204.jpg"
+    },
+    {
         "name": "2023-11-11_02.jpg",
         "fullsize_path": "Images/Concrete/2023-11-11_02.jpg",
         "thumbnail_path": "Thumbnails/Concrete/2023-11-11_02.jpg"
+    },
+    {
+        "name": "DSC07193.jpg",
+        "fullsize_path": "Images/Concrete/DSC07193.jpg",
+        "thumbnail_path": "Thumbnails/Concrete/DSC07193.jpg"
     },
     {
         "name": "2023-11-11_05.jpg",
@@ -738,6 +763,11 @@
         "name": "2024-02-05_Concrete_3.jpg",
         "fullsize_path": "Images/Concrete/2024-02-05_Concrete_3.jpg",
         "thumbnail_path": "Thumbnails/Concrete/2024-02-05_Concrete_3.jpg"
+    },
+    {
+        "name": "DSC07201.jpg",
+        "fullsize_path": "Images/Concrete/DSC07201.jpg",
+        "thumbnail_path": "Thumbnails/Concrete/DSC07201.jpg"
     },
     {
         "name": "2023-11-11_07.jpg",
@@ -1170,6 +1200,16 @@
         "thumbnail_path": "Thumbnails/Construction/Cobblestone Floor/2024-02-08_4.jpg"
     },
     {
+        "name": "DSC07285.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/DSC07285.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/DSC07285.jpg"
+    },
+    {
+        "name": "DSC07290.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/DSC07290.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/DSC07290.jpg"
+    },
+    {
         "name": "2024-01-05_1.jpg",
         "fullsize_path": "Images/Construction/Brick Wall/2024-01-05_1.jpg",
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-01-05_1.jpg"
@@ -1213,6 +1253,11 @@
         "name": "2024-01-05_2.jpg",
         "fullsize_path": "Images/Construction/Brick Wall/2024-01-05_2.jpg",
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-01-05_2.jpg"
+    },
+    {
+        "name": "DSC06894.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/DSC06894.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/DSC06894.jpg"
     },
     {
         "name": "2024-02-07_BrickWall_1.jpg",
