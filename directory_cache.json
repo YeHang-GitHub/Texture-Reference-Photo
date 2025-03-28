@@ -215,6 +215,16 @@
         "thumbnail_path": "Thumbnails/Aging/Leaking/DSC06903.jpg"
     },
     {
+        "name": "DSC06898.jpg",
+        "fullsize_path": "Images/Aging/Dust & Dirt/DSC06898.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Dust & Dirt/DSC06898.jpg"
+    },
+    {
+        "name": "DSC02719.jpg",
+        "fullsize_path": "Images/Aging/Dust & Dirt/DSC02719.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Dust & Dirt/DSC02719.jpg"
+    },
+    {
         "name": "2024-01-02_17_Moss.jpg",
         "fullsize_path": "Images/Aging/Mildew/2024-01-02_17_Moss.jpg",
         "thumbnail_path": "Thumbnails/Aging/Mildew/2024-01-02_17_Moss.jpg"
@@ -268,16 +278,6 @@
         "name": "2024-01-20_17_Mossy.jpg",
         "fullsize_path": "Images/Aging/Mildew/2024-01-20_17_Mossy.jpg",
         "thumbnail_path": "Thumbnails/Aging/Mildew/2024-01-20_17_Mossy.jpg"
-    },
-    {
-        "name": "DSC06898.jpg",
-        "fullsize_path": "Images/Aging/Dust_And_Dirt/DSC06898.jpg",
-        "thumbnail_path": "Thumbnails/Aging/Dust_And_Dirt/DSC06898.jpg"
-    },
-    {
-        "name": "DSC02719.jpg",
-        "fullsize_path": "Images/Aging/Dust_And_Dirt/DSC02719.jpg",
-        "thumbnail_path": "Thumbnails/Aging/Dust_And_Dirt/DSC02719.jpg"
     },
     {
         "name": "DSC02705.jpg",
@@ -1245,6 +1245,11 @@
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-02-07_BrickWall_3.jpg"
     },
     {
+        "name": "DSC09710.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/DSC09710.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/DSC09710.jpg"
+    },
+    {
         "name": "2021-09-21 11.29.30.jpg",
         "fullsize_path": "Images/Construction/Brick Wall/2021-09-21 11.29.30.jpg",
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2021-09-21 11.29.30.jpg"
@@ -1253,6 +1258,11 @@
         "name": "2024-01-05_2.jpg",
         "fullsize_path": "Images/Construction/Brick Wall/2024-01-05_2.jpg",
         "thumbnail_path": "Thumbnails/Construction/Brick Wall/2024-01-05_2.jpg"
+    },
+    {
+        "name": "DSC09682.jpg",
+        "fullsize_path": "Images/Construction/Brick Wall/DSC09682.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Brick Wall/DSC09682.jpg"
     },
     {
         "name": "DSC06894.jpg",
