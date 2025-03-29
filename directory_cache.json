@@ -790,91 +790,6 @@
         "thumbnail_path": "Thumbnails/Concrete/2023-11-11_04.jpg"
     },
     {
-        "name": "2024-02-08_2.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-08_2.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_2.jpg"
-    },
-    {
-        "name": "2024-02-5_06.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_06.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_06.jpg"
-    },
-    {
-        "name": "2024-02-5_11.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_11.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_11.jpg"
-    },
-    {
-        "name": "2024-02-08_3.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-08_3.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_3.jpg"
-    },
-    {
-        "name": "2024-02-5_02.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_02.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_02.jpg"
-    },
-    {
-        "name": "2024-02-5_09.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_09.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_09.jpg"
-    },
-    {
-        "name": "2024-02-08_1.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-08_1.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_1.jpg"
-    },
-    {
-        "name": "2024-02-08_6.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-08_6.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_6.jpg"
-    },
-    {
-        "name": "2024-02-5_01.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_01.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_01.jpg"
-    },
-    {
-        "name": "2024-02-5_10.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_10.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_10.jpg"
-    },
-    {
-        "name": "2024-02-5_04.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_04.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_04.jpg"
-    },
-    {
-        "name": "2024-02-5_05.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_05.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_05.jpg"
-    },
-    {
-        "name": "2024-02-5_07.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_07.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_07.jpg"
-    },
-    {
-        "name": "2024-02-08_4.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-08_4.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_4.jpg"
-    },
-    {
-        "name": "2024-02-08_5.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-08_5.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-08_5.jpg"
-    },
-    {
-        "name": "2024-02-5_03.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_03.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_03.jpg"
-    },
-    {
-        "name": "2024-02-5_08.jpg",
-        "fullsize_path": "Images/Ceramic Tile/2024-02-5_08.jpg",
-        "thumbnail_path": "Thumbnails/Ceramic Tile/2024-02-5_08.jpg"
-    },
-    {
         "name": "DSC09354.jpg",
         "fullsize_path": "Images/Road/Pavement Marking/DSC09354.jpg",
         "thumbnail_path": "Thumbnails/Road/Pavement Marking/DSC09354.jpg"
@@ -1198,6 +1113,91 @@
         "name": "2024-02-08_4.jpg",
         "fullsize_path": "Images/Construction/Cobblestone Floor/2024-02-08_4.jpg",
         "thumbnail_path": "Thumbnails/Construction/Cobblestone Floor/2024-02-08_4.jpg"
+    },
+    {
+        "name": "2024-02-08_2.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-08_2.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-08_2.jpg"
+    },
+    {
+        "name": "2024-02-5_06.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_06.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_06.jpg"
+    },
+    {
+        "name": "2024-02-5_11.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_11.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_11.jpg"
+    },
+    {
+        "name": "2024-02-08_3.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-08_3.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-08_3.jpg"
+    },
+    {
+        "name": "2024-02-5_02.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_02.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_02.jpg"
+    },
+    {
+        "name": "2024-02-5_09.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_09.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_09.jpg"
+    },
+    {
+        "name": "2024-02-08_1.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-08_1.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-08_1.jpg"
+    },
+    {
+        "name": "2024-02-08_6.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-08_6.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-08_6.jpg"
+    },
+    {
+        "name": "2024-02-5_01.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_01.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_01.jpg"
+    },
+    {
+        "name": "2024-02-5_10.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_10.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_10.jpg"
+    },
+    {
+        "name": "2024-02-5_04.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_04.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_04.jpg"
+    },
+    {
+        "name": "2024-02-5_05.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_05.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_05.jpg"
+    },
+    {
+        "name": "2024-02-5_07.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_07.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_07.jpg"
+    },
+    {
+        "name": "2024-02-08_4.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-08_4.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-08_4.jpg"
+    },
+    {
+        "name": "2024-02-08_5.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-08_5.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-08_5.jpg"
+    },
+    {
+        "name": "2024-02-5_03.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_03.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_03.jpg"
+    },
+    {
+        "name": "2024-02-5_08.jpg",
+        "fullsize_path": "Images/Construction/Ceramic Tile/2024-02-5_08.jpg",
+        "thumbnail_path": "Thumbnails/Construction/Ceramic Tile/2024-02-5_08.jpg"
     },
     {
         "name": "DSC07285.jpg",
