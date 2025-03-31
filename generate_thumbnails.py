@@ -1,5 +1,10 @@
 from PIL import Image
 import os
+# Ensure pillow-avif-plugin is installed: pip install pillow-avif-plugin
+try:
+    import pillow_avif
+except ImportError:
+    print("pillow-avif-plugin is not installed. AVIF files might not be processed correctly. Please run: pip install pillow-avif-plugin")
 from multiprocessing import Pool, cpu_count
 
 # 提高 Pillow 允许的最大像素
