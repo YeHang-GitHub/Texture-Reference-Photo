@@ -655,9 +655,24 @@
         "thumbnail_path": "Thumbnails/Metal/StainlessSteel/IMG_1350.jpg"
     },
     {
+        "name": "DSC07171.jpg",
+        "fullsize_path": "Images/Metal/Painted/DSC07171.jpg",
+        "thumbnail_path": "Thumbnails/Metal/Painted/DSC07171.jpg"
+    },
+    {
+        "name": "DSC09797.jpg",
+        "fullsize_path": "Images/Metal/Painted/DSC09797.jpg",
+        "thumbnail_path": "Thumbnails/Metal/Painted/DSC09797.jpg"
+    },
+    {
         "name": "DSC03852.jpg",
         "fullsize_path": "Images/Metal/Painted/DSC03852.jpg",
         "thumbnail_path": "Thumbnails/Metal/Painted/DSC03852.jpg"
+    },
+    {
+        "name": "DSC09801.jpg",
+        "fullsize_path": "Images/Metal/Painted/DSC09801.jpg",
+        "thumbnail_path": "Thumbnails/Metal/Painted/DSC09801.jpg"
     },
     {
         "name": "2021-09-19 18.52.18.jpg",
@@ -675,6 +690,11 @@
         "thumbnail_path": "Thumbnails/Metal/Painted/2024-02-06_01.jpg"
     },
     {
+        "name": "DSC09789.jpg",
+        "fullsize_path": "Images/Metal/Painted/DSC09789.jpg",
+        "thumbnail_path": "Thumbnails/Metal/Painted/DSC09789.jpg"
+    },
+    {
         "name": "DSC02723.jpg",
         "fullsize_path": "Images/Metal/Painted/DSC02723.jpg",
         "thumbnail_path": "Thumbnails/Metal/Painted/DSC02723.jpg"
@@ -688,6 +708,11 @@
         "name": "DSC03847.jpg",
         "fullsize_path": "Images/Metal/Painted/DSC03847.jpg",
         "thumbnail_path": "Thumbnails/Metal/Painted/DSC03847.jpg"
+    },
+    {
+        "name": "DSC09783.jpg",
+        "fullsize_path": "Images/Metal/Painted/DSC09783.jpg",
+        "thumbnail_path": "Thumbnails/Metal/Painted/DSC09783.jpg"
     },
     {
         "name": "2021-09-18_Fire_Hydrant.jpg",
@@ -1425,9 +1450,9 @@
         "thumbnail_path": "Thumbnails/Wood/Painted/2021-09-19 18.48.10.jpg"
     },
     {
-        "name": "DSC00534.avif",
-        "fullsize_path": "Images/Wood/Old/DSC00534.avif",
-        "thumbnail_path": "Thumbnails/Wood/Old/DSC00534.avif"
+        "name": "DSC00534.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC00534.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC00534.jpg"
     },
     {
         "name": "2021-09-18 11.03.17.jpg",
