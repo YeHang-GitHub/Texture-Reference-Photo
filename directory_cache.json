@@ -295,6 +295,11 @@
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC02711.jpg"
     },
     {
+        "name": "DSC09749.jpg",
+        "fullsize_path": "Images/Aging/Rusting/DSC09749.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Rusting/DSC09749.jpg"
+    },
+    {
         "name": "DSC01218-Pano.jpg",
         "fullsize_path": "Images/Aging/Moss/DSC01218-Pano.jpg",
         "thumbnail_path": "Thumbnails/Aging/Moss/DSC01218-Pano.jpg"
@@ -1680,13 +1685,68 @@
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09976.jpg"
     },
     {
+        "name": "DSC07051.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC07051.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC07051.jpg"
+    },
+    {
+        "name": "DSC09324.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC09324.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC09324.jpg"
+    },
+    {
+        "name": "DSC06910.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC06910.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC06910.jpg"
+    },
+    {
+        "name": "DSC09308.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC09308.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC09308.jpg"
+    },
+    {
+        "name": "DSC01264.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC01264.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC01264.jpg"
+    },
+    {
+        "name": "DSC00158.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC00158.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC00158.jpg"
+    },
+    {
         "name": "2021-09-18 11.03.17.jpg",
         "fullsize_path": "Images/Wood/Bare/2021-09-18 11.03.17.jpg",
         "thumbnail_path": "Thumbnails/Wood/Bare/2021-09-18 11.03.17.jpg"
     },
     {
+        "name": "DSC07050.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC07050.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC07050.jpg"
+    },
+    {
+        "name": "DSC09310.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC09310.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC09310.jpg"
+    },
+    {
+        "name": "DSC00807.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC00807.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC00807.jpg"
+    },
+    {
         "name": "2021-09-18 11.03.08.jpg",
         "fullsize_path": "Images/Wood/Bare/2021-09-18 11.03.08.jpg",
         "thumbnail_path": "Thumbnails/Wood/Bare/2021-09-18 11.03.08.jpg"
+    },
+    {
+        "name": "DSC09164.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC09164.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC09164.jpg"
+    },
+    {
+        "name": "DSC09239.jpg",
+        "fullsize_path": "Images/Wood/Bare/DSC09239.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Bare/DSC09239.jpg"
     }
 ]
