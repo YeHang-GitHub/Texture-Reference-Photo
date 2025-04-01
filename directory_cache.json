@@ -1540,6 +1540,11 @@
         "thumbnail_path": "Thumbnails/Wood/Painted/2021-09-18 10.59.27.jpg"
     },
     {
+        "name": "DSC00260.jpg",
+        "fullsize_path": "Images/Wood/Painted/DSC00260.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Painted/DSC00260.jpg"
+    },
+    {
         "name": "DSC00494.jpg",
         "fullsize_path": "Images/Wood/Painted/DSC00494.jpg",
         "thumbnail_path": "Thumbnails/Wood/Painted/DSC00494.jpg"
@@ -1548,6 +1553,16 @@
         "name": "DSC09876.jpg",
         "fullsize_path": "Images/Wood/Painted/DSC09876.jpg",
         "thumbnail_path": "Thumbnails/Wood/Painted/DSC09876.jpg"
+    },
+    {
+        "name": "DSC00239.jpg",
+        "fullsize_path": "Images/Wood/Painted/DSC00239.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Painted/DSC00239.jpg"
+    },
+    {
+        "name": "DSC00415.jpg",
+        "fullsize_path": "Images/Wood/Painted/DSC00415.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Painted/DSC00415.jpg"
     },
     {
         "name": "DSC09887.jpg",
@@ -1563,6 +1578,11 @@
         "name": "2021-09-19 18.48.10.jpg",
         "fullsize_path": "Images/Wood/Painted/2021-09-19 18.48.10.jpg",
         "thumbnail_path": "Thumbnails/Wood/Painted/2021-09-19 18.48.10.jpg"
+    },
+    {
+        "name": "DSC00270.jpg",
+        "fullsize_path": "Images/Wood/Painted/DSC00270.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Painted/DSC00270.jpg"
     },
     {
         "name": "DSC09315.jpg",
@@ -1598,6 +1618,21 @@
         "name": "DSC09699.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09699.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09699.jpg"
+    },
+    {
+        "name": "DSC00748.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC00748.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC00748.jpg"
+    },
+    {
+        "name": "DSC00178.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC00178.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC00178.jpg"
+    },
+    {
+        "name": "DSC01247.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC01247.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC01247.jpg"
     },
     {
         "name": "DSC09154.jpg",
@@ -1638,6 +1673,11 @@
         "name": "DSC09152.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09152.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09152.jpg"
+    },
+    {
+        "name": "DSC09976.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC09976.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC09976.jpg"
     },
     {
         "name": "2021-09-18 11.03.17.jpg",
