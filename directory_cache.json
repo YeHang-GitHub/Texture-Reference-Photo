@@ -315,6 +315,16 @@
         "thumbnail_path": "Thumbnails/Aging/Mildew/2024-01-20_17_Mossy.jpg"
     },
     {
+        "name": "DSC01303.jpg",
+        "fullsize_path": "Images/Aging/Rusting/DSC01303.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Rusting/DSC01303.jpg"
+    },
+    {
+        "name": "DSC09082.jpg",
+        "fullsize_path": "Images/Aging/Rusting/DSC09082.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Rusting/DSC09082.jpg"
+    },
+    {
         "name": "DSC02705.jpg",
         "fullsize_path": "Images/Aging/Rusting/DSC02705.jpg",
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC02705.jpg"
@@ -325,6 +335,11 @@
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC02715.jpg"
     },
     {
+        "name": "DSC07162.jpg",
+        "fullsize_path": "Images/Aging/Rusting/DSC07162.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Rusting/DSC07162.jpg"
+    },
+    {
         "name": "DSC02711.jpg",
         "fullsize_path": "Images/Aging/Rusting/DSC02711.jpg",
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC02711.jpg"
@@ -333,6 +348,11 @@
         "name": "DSC09749.jpg",
         "fullsize_path": "Images/Aging/Rusting/DSC09749.jpg",
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC09749.jpg"
+    },
+    {
+        "name": "DSC09071.jpg",
+        "fullsize_path": "Images/Aging/Rusting/DSC09071.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Rusting/DSC09071.jpg"
     },
     {
         "name": "DSC01218-Pano.jpg",
