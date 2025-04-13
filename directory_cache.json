@@ -205,9 +205,24 @@
         "thumbnail_path": "Thumbnails/Aging/Cracking/DSC07344.jpg"
     },
     {
+        "name": "DSC09112.jpg",
+        "fullsize_path": "Images/Aging/Leaking/DSC09112.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Leaking/DSC09112.jpg"
+    },
+    {
+        "name": "DSC09111.jpg",
+        "fullsize_path": "Images/Aging/Leaking/DSC09111.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Leaking/DSC09111.jpg"
+    },
+    {
         "name": "DSC02721.jpg",
         "fullsize_path": "Images/Aging/Leaking/DSC02721.jpg",
         "thumbnail_path": "Thumbnails/Aging/Leaking/DSC02721.jpg"
+    },
+    {
+        "name": "DSC09024.jpg",
+        "fullsize_path": "Images/Aging/Leaking/DSC09024.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Leaking/DSC09024.jpg"
     },
     {
         "name": "DSC06903.jpg",
@@ -668,6 +683,11 @@
         "name": "DSC07164.jpg",
         "fullsize_path": "Images/Metal/Painted/DSC07164.jpg",
         "thumbnail_path": "Thumbnails/Metal/Painted/DSC07164.jpg"
+    },
+    {
+        "name": "DSC09043.jpg",
+        "fullsize_path": "Images/Metal/Painted/DSC09043.jpg",
+        "thumbnail_path": "Thumbnails/Metal/Painted/DSC09043.jpg"
     },
     {
         "name": "DSC07174.jpg",
