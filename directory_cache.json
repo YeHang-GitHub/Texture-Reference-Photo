@@ -1715,6 +1715,16 @@
         "thumbnail_path": "Thumbnails/Wood/Painted/DSC00270.jpg"
     },
     {
+        "name": "DSC09421.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC09421.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC09421.jpg"
+    },
+    {
+        "name": "DSC01196.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC01196.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC01196.jpg"
+    },
+    {
         "name": "DSC09315.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09315.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09315.jpg"
@@ -1733,6 +1743,11 @@
         "name": "DSC09172.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09172.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09172.jpg"
+    },
+    {
+        "name": "DSC09600.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC09600.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC09600.jpg"
     },
     {
         "name": "DSC09581.jpg",
@@ -1758,6 +1773,11 @@
         "name": "DSC09643.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09643.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09643.jpg"
+    },
+    {
+        "name": "DSC09625.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC09625.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC09625.jpg"
     },
     {
         "name": "DSC09168.jpg",
@@ -1790,6 +1810,16 @@
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09046.jpg"
     },
     {
+        "name": "DSC01369.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC01369.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC01369.jpg"
+    },
+    {
+        "name": "DSC09334.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC09334.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC09334.jpg"
+    },
+    {
         "name": "DSC09941.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09941.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09941.jpg"
@@ -1815,9 +1845,19 @@
         "thumbnail_path": "Thumbnails/Wood/Old/DSC01247.jpg"
     },
     {
+        "name": "DSC00762.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC00762.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC00762.jpg"
+    },
+    {
         "name": "DSC09212.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09212.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09212.jpg"
+    },
+    {
+        "name": "DSC01357.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC01357.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC01357.jpg"
     },
     {
         "name": "DSC09154.jpg",
@@ -1863,6 +1903,11 @@
         "name": "DSC09152.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09152.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09152.jpg"
+    },
+    {
+        "name": "DSC09263.jpg",
+        "fullsize_path": "Images/Wood/Old/DSC09263.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/DSC09263.jpg"
     },
     {
         "name": "DSC09976.jpg",
