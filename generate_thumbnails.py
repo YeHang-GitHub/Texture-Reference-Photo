@@ -1,10 +1,11 @@
-from PIL import Image
+from PIL import Image, ImageCms
 import os
-# Ensure pillow-avif-plugin is installed: pip install pillow-avif-plugin
+# Ensure pillow-avif-plugin and pillow-jxl-plugin are installed: pip install pillow-avif-plugin pillow-jxl-plugin
 try:
     import pillow_avif
+    import pillow_jxl
 except ImportError:
-    print("pillow-avif-plugin is not installed. AVIF files might not be processed correctly. Please run: pip install pillow-avif-plugin")
+    print("Required plugins are not installed. AVIF and JXL files might not be processed correctly. Please run: pip install pillow-avif-plugin pillow-jxl-plugin")
 from multiprocessing import Pool, cpu_count
 
 # 提高 Pillow 允许的最大像素
@@ -25,8 +26,13 @@ def process_image(file_info):
     
     try:
         with Image.open(input_path) as img:
+            # 如果图像是 HDR，尝试保持 HDR 内容
+            if img.mode == "RGB" and "icc_profile" in img.info:
+                icc_profile = img.info.get("icc_profile")
+                img = ImageCms.profileToProfile(img, icc_profile, icc_profile, outputMode="RGB")
+            
             img.thumbnail(THUMBNAIL_SIZE)  # 生成缩略图（保持原比例）
-            img.save(output_path)  # 保存缩略图
+            img.save(output_path, format=img.format, quality=95)  # 保存缩略图，保持 HDR 信息
             print(f"✅ 生成缩略图: {output_path}")
     except Exception as e:
         print(f"❌ 处理失败: {input_path}，错误: {e}")
@@ -43,7 +49,7 @@ def get_image_files():
             os.makedirs(target_path)  # 确保目标目录存在
         
         for file in files:
-            if file.lower().endswith(('.png', '.jpg', '.jpeg', '.webp', '.avif')):  # 处理常见格式
+            if file.lower().endswith(('.png', '.jpg', '.jpeg', '.webp', '.avif', '.jxl')):  # 添加对 JXL 的支持
                 input_path = os.path.join(root, file)
                 output_path = os.path.join(target_path, file)  # 保持原文件名
                 file_list.append((input_path, output_path))
