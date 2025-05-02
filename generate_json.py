@@ -6,7 +6,7 @@ def generate_image_data(images_dir, thumbnails_dir, output_file):
 
     for root, dirs, files in os.walk(images_dir):
         for file in files:
-            if file.lower().endswith(('.jpg', '.png', '.avif','.jxl')):  # 加上 .avif 格式
+            if file.lower().endswith(('.jpg', '.png', '.avif')):  # 加上 .avif 格式
                 relative_path = os.path.relpath(os.path.join(root, file), images_dir)
                 thumbnail_path = os.path.join(thumbnails_dir, relative_path)
                 if os.path.exists(thumbnail_path):
