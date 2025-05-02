@@ -50,6 +50,43 @@ def get_image_files():
 
     return file_list
 
+def get_thumbnail_files():
+    """ 获取所有缩略图文件 """
+    thumbnail_list = []
+    for root, _, files in os.walk(OUTPUT_DIR):
+        for file in files:
+            if file.lower().endswith(('.png', '.jpg', '.jpeg', '.webp', '.avif')):
+                thumbnail_path = os.path.join(root, file)
+                thumbnail_list.append(thumbnail_path)
+    return thumbnail_list
+
+def clean_orphaned_thumbnails():
+    """ 清理没有对应原始图片的缩略图 """
+    thumbnails = get_thumbnail_files()
+    removed = 0
+    
+    for thumbnail in thumbnails:
+        # 计算对应的原始图片路径
+        relative_path = os.path.relpath(thumbnail, OUTPUT_DIR)
+        original_path = os.path.join(INPUT_DIR, relative_path)
+        
+        # 如果原始图片不存在，删除缩略图
+        if not os.path.exists(original_path):
+            os.remove(thumbnail)
+            print(f"🗑️ 删除孤立缩略图: {thumbnail}")
+            removed += 1
+    
+    if removed > 0:
+        print(f"♻️ 清理完成，共删除 {removed} 个孤立缩略图")
+    
+    # 清理空文件夹
+    for root, dirs, files in os.walk(OUTPUT_DIR, topdown=False):
+        for dir in dirs:
+            dir_path = os.path.join(root, dir)
+            if not os.listdir(dir_path):  # 如果文件夹为空
+                os.rmdir(dir_path)
+                print(f"🗑️ 删除空文件夹: {dir_path}")
+
 def generate_thumbnails():
     """ 使用多进程加速缩略图生成 """
     image_files = get_image_files()
@@ -58,13 +95,16 @@ def generate_thumbnails():
         print("⚠️ 没有找到图片文件！")
         return
 
-    num_workers = min(cpu_count(), len(image_files))  # 使用 CPU 最大核心数
+    num_workers = min(cpu_count(), len(image_files))
     print(f"🚀 开始生成 {len(image_files)} 张缩略图，使用 {num_workers} 个进程")
 
     with Pool(num_workers) as pool:
         pool.map(process_image, image_files)
 
     print("🎉 缩略图生成完成！")
+    
+    # 清理孤立的缩略图
+    clean_orphaned_thumbnails()
 
 if __name__ == "__main__":
     generate_thumbnails()
