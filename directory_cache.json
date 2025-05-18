@@ -135,6 +135,11 @@
         "thumbnail_path": "Thumbnails/Wood/Painted/DSC00353.jpg"
     },
     {
+        "name": "1 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Wood/Painted/1 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Painted/1 - Lorenzo Jakupi.jpg"
+    },
+    {
         "name": "DSC09876.jpg",
         "fullsize_path": "Images/Wood/Painted/DSC09876.jpg",
         "thumbnail_path": "Thumbnails/Wood/Painted/DSC09876.jpg"
@@ -338,6 +343,11 @@
         "name": "DSC09383.jpg",
         "fullsize_path": "Images/Wood/Old/DSC09383.jpg",
         "thumbnail_path": "Thumbnails/Wood/Old/DSC09383.jpg"
+    },
+    {
+        "name": "2 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Wood/Old/2 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Wood/Old/2 - Lorenzo Jakupi.jpg"
     },
     {
         "name": "DSC09563.jpg",
@@ -675,6 +685,11 @@
         "thumbnail_path": "Thumbnails/Stone/Stair/DSC03863.jpg"
     },
     {
+        "name": "3 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Stone/Wall & Floor/3 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Wall & Floor/3 - Lorenzo Jakupi.jpg"
+    },
+    {
         "name": "DSC09109.jpg",
         "fullsize_path": "Images/Stone/Wall & Floor/DSC09109.jpg",
         "thumbnail_path": "Thumbnails/Stone/Wall & Floor/DSC09109.jpg"
@@ -710,6 +725,11 @@
         "thumbnail_path": "Thumbnails/Stone/Wall & Floor/2023-03-13_02.jpg"
     },
     {
+        "name": "4 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Stone/Wall & Floor/4 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Wall & Floor/4 - Lorenzo Jakupi.jpg"
+    },
+    {
         "name": "2023-03-13_1.jpg",
         "fullsize_path": "Images/Stone/Wall & Floor/2023-03-13_1.jpg",
         "thumbnail_path": "Thumbnails/Stone/Wall & Floor/2023-03-13_1.jpg"
@@ -718,6 +738,11 @@
         "name": "DSC07123.jpg",
         "fullsize_path": "Images/Stone/Wall & Floor/DSC07123.jpg",
         "thumbnail_path": "Thumbnails/Stone/Wall & Floor/DSC07123.jpg"
+    },
+    {
+        "name": "6 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Stone/Wall & Floor/6 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Stone/Wall & Floor/6 - Lorenzo Jakupi.jpg"
     },
     {
         "name": "DSC03882.jpg",
@@ -1193,6 +1218,11 @@
         "name": "DSC09789.jpg",
         "fullsize_path": "Images/Metal/Painted/DSC09789.jpg",
         "thumbnail_path": "Thumbnails/Metal/Painted/DSC09789.jpg"
+    },
+    {
+        "name": "10 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Metal/Painted/10 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Metal/Painted/10 - Lorenzo Jakupi.jpg"
     },
     {
         "name": "DSC07171.jpg",
@@ -1865,6 +1895,11 @@
         "thumbnail_path": "Thumbnails/Aging/Moss/2021-09-22_Moss_12.jpg"
     },
     {
+        "name": "8 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Aging/Leaking/8 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Leaking/8 - Lorenzo Jakupi.jpg"
+    },
+    {
         "name": "DSC06903.jpg",
         "fullsize_path": "Images/Aging/Leaking/DSC06903.jpg",
         "thumbnail_path": "Thumbnails/Aging/Leaking/DSC06903.jpg"
@@ -1980,6 +2015,11 @@
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC02705.jpg"
     },
     {
+        "name": "10 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Aging/Rusting/10 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Rusting/10 - Lorenzo Jakupi.jpg"
+    },
+    {
         "name": "DSC02711.jpg",
         "fullsize_path": "Images/Aging/Rusting/DSC02711.jpg",
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC02711.jpg"
@@ -2008,6 +2048,11 @@
         "name": "DSC09082.jpg",
         "fullsize_path": "Images/Aging/Rusting/DSC09082.jpg",
         "thumbnail_path": "Thumbnails/Aging/Rusting/DSC09082.jpg"
+    },
+    {
+        "name": "9 - Lorenzo Jakupi.jpg",
+        "fullsize_path": "Images/Aging/Rusting/9 - Lorenzo Jakupi.jpg",
+        "thumbnail_path": "Thumbnails/Aging/Rusting/9 - Lorenzo Jakupi.jpg"
     },
     {
         "name": "DSC07162.jpg",
