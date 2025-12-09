@@ -1,5 +1,6 @@
 import os
 import json
+import time
 
 def generate_image_data(images_dir, thumbnails_dir, output_file):
     image_data = []
@@ -13,18 +14,23 @@ def generate_image_data(images_dir, thumbnails_dir, output_file):
 
                 # 原图相对路径
                 relative_path = os.path.relpath(os.path.join(root, file), images_dir)
+                full_path = os.path.join(root, file)
 
                 # 缩略图路径（与原图目录结构相同，但目录换成 Thumbnails）
                 thumbnail_path = os.path.join(thumbnails_dir, relative_path)
 
                 # 如果缩略图存在才写入 JSON（避免缺文件）
                 if os.path.exists(thumbnail_path):
-                    file_size = os.path.getsize(os.path.join(root, file))
+                    file_size = os.path.getsize(full_path)
+                    # 获取文件修改时间（Unix时间戳）
+                    modified_time = os.path.getmtime(full_path)
+                    
                     image_data.append({
                         'name': file,
                         'fullsize_path': os.path.join('Images', relative_path).replace("\\", "/"),
                         'thumbnail_path': thumbnail_path.replace("\\", "/"),
-                        'size': file_size
+                        'size': file_size,
+                        'modified_time': int(modified_time)  # 添加修改时间（Unix时间戳）
                     })
 
     with open(output_file, 'w', encoding='utf-8') as f:
