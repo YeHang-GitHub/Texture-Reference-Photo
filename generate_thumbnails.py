@@ -1,12 +1,6 @@
 from PIL import Image
 import os
 
-# 需要 pillow-avif-plugin 支持 AVIF
-try:
-    import pillow_avif
-except ImportError:
-    print("❗ pillow-avif-plugin 未安装，AVIF 可能无法正常处理\n请执行: pip install pillow-avif-plugin")
-
 from multiprocessing import Pool, cpu_count
 
 Image.MAX_IMAGE_PIXELS = None
@@ -15,8 +9,8 @@ INPUT_DIR = "Images"
 OUTPUT_DIR = "Thumbnails"
 THUMBNAIL_SIZE = (1024, 1024)
 
-# 统一生成 AVIF 缩略图
-OUTPUT_EXT = ".avif"
+# 输出缩略图格式为 JPG
+OUTPUT_EXT = ".jpg"
 
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
@@ -24,15 +18,15 @@ if not os.path.exists(OUTPUT_DIR):
 def process_image(file_info):
     input_path, output_path = file_info
     
-    # 目标缩略图强制 .avif
+    # 目标缩略图强制 .jpg
     output_path = os.path.splitext(output_path)[0] + OUTPUT_EXT
 
     try:
         with Image.open(input_path) as img:
             img.thumbnail(THUMBNAIL_SIZE)
 
-            # 保存成 AVIF，提高压缩（quality 可调节）
-            img.save(output_path, format="AVIF", quality=60)
+            # 保存成 JPG（quality 可调节）
+            img.save(output_path, format="JPEG", quality=60)
 
         print(f"✅ 生成缩略图: {output_path}")
 
@@ -40,7 +34,7 @@ def process_image(file_info):
         print(f"❌ 处理失败: {input_path}，错误: {e}")
 
 def get_image_files():
-    valid_ext = ('.png', '.jpg', '.jpeg', '.webp', '.avif')
+    valid_ext = ('.jpg', '.jpeg')  # 只支持 jpg/jpeg
     file_list = []
     
     for root, _, files in os.walk(INPUT_DIR):
@@ -54,7 +48,7 @@ def get_image_files():
             if file.lower().endswith(valid_ext):
                 input_path = os.path.join(root, file)
 
-                # 输出路径同名但后缀改成 .avif
+                # 输出路径同名但后缀改成 .jpg
                 output_raw = os.path.join(target_dir, file)
 
                 file_list.append((input_path, output_raw))
@@ -73,7 +67,7 @@ def clean_orphaned_thumbnails():
             original_ext_removed = os.path.splitext(relative)[0]
             possible_matches = [
                 original_ext_removed + ext
-                for ext in ('.png', '.jpg', '.jpeg', '.webp', '.avif')
+                for ext in ('.jpg', '.jpeg')  # 只支持 jpg/jpeg
             ]
 
             original_exists = any(

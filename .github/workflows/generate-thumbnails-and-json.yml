@@ -28,10 +28,10 @@ jobs:
         sudo apt-get autoremove -y
         df -h
 
-    - name: Install AVIF system libraries
+    - name: Install system libraries (JPEG/PNG/WEBP only)
       run: |
         sudo apt-get update
-        sudo apt-get install -y libavif-dev libaom-dev libjpeg-dev libpng-dev libwebp-dev
+        sudo apt-get install -y libjpeg-dev libpng-dev libwebp-dev
         sudo apt-get clean
         df -h
 
@@ -43,7 +43,6 @@ jobs:
     - name: Install Python dependencies (clean, no cache)
       run: |
         pip install --no-cache-dir pillow
-        pip install --no-cache-dir pillow-avif-plugin
 
     - name: Run thumbnail generator
       run: python generate_thumbnails.py

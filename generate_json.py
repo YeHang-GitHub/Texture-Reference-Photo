@@ -5,7 +5,7 @@ def generate_image_data(images_dir, thumbnails_dir, output_file):
     image_data = []
 
     # 允许的图片格式
-    valid_ext = ('.jpg', '.jpeg', '.png', '.webp', '.avif')
+    valid_ext = ('.jpg', '.jpeg')  # 只支持 jpg/jpeg
 
     for root, dirs, files in os.walk(images_dir):
         for file in files:
@@ -26,7 +26,7 @@ def generate_image_data(images_dir, thumbnails_dir, output_file):
                     })
 
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(image_data, f, indent=4, ensure_ascii=False)
+        json.dump(image_data, f, indent=4, ensure_ascii=False) 
 
 if __name__ == "__main__":
     images_dir = 'Images'
