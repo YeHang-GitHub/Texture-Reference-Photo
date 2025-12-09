@@ -19,10 +19,12 @@ def generate_image_data(images_dir, thumbnails_dir, output_file):
 
                 # 如果缩略图存在才写入 JSON（避免缺文件）
                 if os.path.exists(thumbnail_path):
+                    file_size = os.path.getsize(os.path.join(root, file))
                     image_data.append({
                         'name': file,
                         'fullsize_path': os.path.join('Images', relative_path).replace("\\", "/"),
-                        'thumbnail_path': thumbnail_path.replace("\\", "/")
+                        'thumbnail_path': thumbnail_path.replace("\\", "/"),
+                        'size': file_size
                     })
 
     with open(output_file, 'w', encoding='utf-8') as f:
