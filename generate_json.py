@@ -1,6 +1,9 @@
 import os
 import json
 import subprocess
+from PIL import Image
+
+Image.MAX_IMAGE_PIXELS = None
 
 def get_last_commit_with_large_images():
     """获取最后一次包含大于5MB图片的提交中的所有图片文件列表"""
@@ -74,6 +77,14 @@ def generate_image_data(images_dir, thumbnails_dir, output_file):
                     # 获取文件修改时间（Unix时间戳）
                     modified_time = os.path.getmtime(full_path)
                     
+                    # 获取原图尺寸
+                    try:
+                        with Image.open(full_path) as img:
+                            width, height = img.size
+                    except Exception as e:
+                        print(f"Warning: Could not get size for {full_path}: {e}")
+                        width, height = 0, 0
+                    
                     # 检查是否属于最后一批上传
                     git_path = os.path.join('Images', relative_path).replace("\\", "/")
                     is_new = git_path in last_batch_images
@@ -83,6 +94,8 @@ def generate_image_data(images_dir, thumbnails_dir, output_file):
                         'fullsize_path': git_path,
                         'thumbnail_path': thumbnail_path.replace("\\", "/"),
                         'size': file_size,
+                        'width': width,
+                        'height': height,
                         'modified_time': int(modified_time),
                         'is_new': is_new  # 添加是否为新图片的标记
                     })
